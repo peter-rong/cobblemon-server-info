@@ -19,3 +19,5 @@ Install necessary mods from the "create instance" button.
 
 **Trinkets by Emi** Version: 3.10.0  
 
+## Step 3
+Open up the instance and ask for server address.
